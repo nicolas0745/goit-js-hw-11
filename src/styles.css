@@ -69,6 +69,7 @@ body {
   grid-auto-rows: 280px;
   grid-gap: 12px;
   justify-content: center;
+  place-items: center;
   margin-left: auto;
   margin-right: auto;
 }
